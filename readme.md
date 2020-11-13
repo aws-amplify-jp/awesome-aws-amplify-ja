@@ -1,8 +1,7 @@
 # awesome-aws-amplify-ja [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > awesome-aws-amplify-jaは、AWS Amplifyのツール、チュートリアル、記事などのリンク集です。 
-
-英語版はこちら: https://github.com/dabit3/awesome-aws-amplify
+> 英語版はこちら: https://github.com/dabit3/awesome-aws-amplify
 
 ## Contents
 
