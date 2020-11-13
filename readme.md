@@ -2,6 +2,7 @@
 
 > awesome-aws-amplify-jaは、AWS Amplifyのツール、チュートリアル、記事などのリンク集です。 
 
+英語版はこちら: https://github.com/dabit3/awesome-aws-amplify
 
 ## Contents
 
