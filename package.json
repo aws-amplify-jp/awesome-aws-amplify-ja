@@ -1,4 +1,5 @@
 {
+  "private": "true",
   "name": "awesome-aws-amplify-ja",
   "version": "1.0.0",
   "description": "日本語で書かれているAWS Amplifyのツール、チュートリアル、記事などのリンク集",
