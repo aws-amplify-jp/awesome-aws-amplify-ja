@@ -9,6 +9,10 @@
 - [AWS で React アプリケーションを構築する](https://aws.amazon.com/jp/getting-started/hands-on/build-react-app-amplify-graphql/)
 - [CI/CD による React アプリの AWS へのデプロイ](https://aws.amazon.com/jp/getting-started/hands-on/deploy-react-app-cicd-amplify/)
 
+## 事例
+
+- [コーポレートサイトを誰にも気づかれず静的化したときの技術選択について](https://developer.hatenastaff.com/entry/2020/07/22/120000)
+- [AWS Amplify で実現する DX 時代のマインドチェンジ](https://speakerdeck.com/ksukenobe/aws-amplify-deshi-xian-suru-dx-shi-dai-falsemaindotienzi)
 
 ## チュートリアル
 
