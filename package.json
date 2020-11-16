@@ -1,0 +1,20 @@
+{
+  "name": "awesome-aws-amplify-ja",
+  "version": "1.0.0",
+  "description": "日本語で書かれているAWS Amplifyのツール、チュートリアル、記事などのリンク集",
+  "main": "index.js",
+  "scripts": {
+    "build": "tools/update-authors.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watilde/awesome-aws-amplify-ja.git"
+  },
+  "keywords": [],
+  "author": "Daijiro Wachi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/watilde/awesome-aws-amplify-ja/issues"
+  },
+  "homepage": "https://github.com/watilde/awesome-aws-amplify-ja#readme"
+}
