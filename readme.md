@@ -27,6 +27,7 @@
 - [AWS Amplify + Vue.js で簡単WEBアプリ作成](https://www.cresco.co.jp/blog/entry/11142/)
 - [AWS AmplifyをVue.jsで使い倒したい！（セットアップ・認証編）](https://qiita.com/jre233kei/items/d719159c6b0b44b3980d)
 - [AWS AmplifyをVue.jsで使い倒したい！（API編）](https://qiita.com/jre233kei/items/b47656059e1718363245)
+- [AWS AmplifyのUI Componentsを利用する](https://zenn.dev/ssshun/articles/e6c827f46640a9a657ed)
 
 ## コントリビュート
 
