@@ -7,6 +7,7 @@
 
 - [AMPLIFY SNS WORKSHOP](https://amplify-sns.workshop.aws/ja/)
 - [AWS で React アプリケーションを構築する](https://aws.amazon.com/jp/getting-started/hands-on/build-react-app-amplify-graphql/)
+- [CI/CD による React アプリの AWS へのデプロイ](https://aws.amazon.com/jp/getting-started/hands-on/deploy-react-app-cicd-amplify/)
 
 
 ## チュートリアル
