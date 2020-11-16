@@ -3,6 +3,9 @@
 > awesome-aws-amplify-jaは、日本語で書かれているAWS Amplifyのツール、チュートリアル、記事などのリンク集です。<br>
 > 英語版はこちら: https://github.com/dabit3/awesome-aws-amplify
 
+## イベント
+- [Amplify Meetup](https://aws-amplify-jp.connpass.com/)
+
 ## ワークショップ
 
 - [AMPLIFY SNS WORKSHOP](https://amplify-sns.workshop.aws/ja/)
@@ -13,6 +16,15 @@
 
 - [コーポレートサイトを誰にも気づかれず静的化したときの技術選択について](https://developer.hatenastaff.com/entry/2020/07/22/120000)
 - [AWS Amplify で実現する DX 時代のマインドチェンジ](https://speakerdeck.com/ksukenobe/aws-amplify-deshi-xian-suru-dx-shi-dai-falsemaindotienzi)
+- [Amplifyで実現した開発期間15日の路面電車乗務員勤務管理システムのフィールドテスト事例について](https://pages.awscloud.com/rs/112-TZM-766/images/EV_awsamplify-meetup-0731_Jul-2020_LT1.pdf)
+
+## Tips
+
+### セキュリティ
+- [痒いところに手が届くAmplify])(https://speakerdeck.com/yuukiyo/yang-itokoronishou-gajie-kuamplify)
+
+### API
+- [AmplifyのAPI機能を使う際のTips](https://dev.classmethod.jp/articles/amplify-meetup-01-taewoo/)
 
 ## チュートリアル
 
