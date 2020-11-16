@@ -13,6 +13,15 @@
 
 - [コーポレートサイトを誰にも気づかれず静的化したときの技術選択について](https://developer.hatenastaff.com/entry/2020/07/22/120000)
 - [AWS Amplify で実現する DX 時代のマインドチェンジ](https://speakerdeck.com/ksukenobe/aws-amplify-deshi-xian-suru-dx-shi-dai-falsemaindotienzi)
+- [Amplifyで実現した開発期間15日の路面電車乗務員勤務管理システムのフィールドテスト事例について](https://pages.awscloud.com/rs/112-TZM-766/images/EV_awsamplify-meetup-0731_Jul-2020_LT1.pdf)
+
+## Tips
+
+### セキュリティ
+- [痒いところに手が届くAmplify])(https://speakerdeck.com/yuukiyo/yang-itokoronishou-gajie-kuamplify)
+
+### API
+- [AmplifyのAPI機能を使う際のTips](https://dev.classmethod.jp/articles/amplify-meetup-01-taewoo/)
 
 ## チュートリアル
 
