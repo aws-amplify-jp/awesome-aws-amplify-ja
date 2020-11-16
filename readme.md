@@ -21,7 +21,7 @@
 ## Tips
 
 ### セキュリティ
-- [痒いところに手が届くAmplify])(https://speakerdeck.com/yuukiyo/yang-itokoronishou-gajie-kuamplify)
+- [痒いところに手が届くAmplify](https://speakerdeck.com/yuukiyo/yang-itokoronishou-gajie-kuamplify)
 
 ### API
 - [AmplifyのAPI機能を使う際のTips](https://dev.classmethod.jp/articles/amplify-meetup-01-taewoo/)
