@@ -6,6 +6,9 @@
 ## イベント
 - [Amplify Meetup](https://aws-amplify-jp.connpass.com/)
 
+## Amplifyとは
+- [スタートアップが AWS Amplify を使うべき3つの理由](https://aws.amazon.com/jp/blogs/startup/techblog-3reasons-amplify/)
+
 ## ワークショップ
 
 - [AMPLIFY SNS WORKSHOP](https://amplify-sns.workshop.aws/ja/)
