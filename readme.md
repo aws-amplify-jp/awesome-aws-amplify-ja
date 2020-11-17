@@ -50,3 +50,10 @@
 ## コントリビュート
 
 コントリビュートは歓迎です。[ガイドライン](contributing.md) を読んでみてください。
+
+## 検索
+
+- [はてなブックマーク](https://b.hatena.ne.jp/search/tag?q=Amplify)
+- [Qiita](https://qiita.com/tags/amplify)
+- [Zenn](https://zenn.dev/topics/amplify)
+- [Twitter](https://twitter.com/search?q=lang%3Aja%20AWSAmplify&src=typed_query&f=live)
