@@ -27,7 +27,6 @@
 - [Amplify 山あり、谷あり奮闘記](https://speakerdeck.com/jyamamoto/amplifyshan-ari-gu-arifen-dou-ji)
 - [Amplify Meetup #01 わたしが AWS Amplify を使い続ける理由](https://speakerdeck.com/ksukenobe/amplify-meetup-number-01-watasiga-aws-amplify-woshi-isok-keruli-you)
 - [Amplify Console のビルド通知をSlackで受け取るためにやったこと](https://speakerdeck.com/youta1119/amplify-console-falsebirudotong-zhi-woslackdeshou-kequ-rutameniyatutakoto)
-- [AWS Amplify で実現する DX 時代のマインドチェンジ](https://speakerdeck.com/ksukenobe/aws-amplify-deshi-xian-suru-dx-shi-dai-falsemaindotienzi)
 - [AWS Amplify Console + CDKを用いて短納期・少人数・フルリモートで作る管理画面](https://dev.classmethod.jp/articles/showcase2020day2aws-amplify-console-cdk/)
 
 ## Tips
