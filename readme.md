@@ -69,6 +69,7 @@
 ## 動画
 
 ### Amplifyとは
+- [【AWS Black Belt Online Seminar】AWS Amplify](https://www.youtube.com/watch?v=A4HOzn7ERqE)
 - [AWS Startup Day 2020 技術系セッション | これからはじめる AWS Amplify](https://www.youtube.com/watch?v=zreoLmhFulA)
 - [AWS Startup Day 2020 技術系セッション | AWS Amplify 実践編](https://www.youtube.com/watch?v=2PNKAWgo_-c)
 
