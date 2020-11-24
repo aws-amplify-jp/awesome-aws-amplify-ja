@@ -14,11 +14,12 @@
 - [Amplify CLI Deep Dive ](https://speakerdeck.com/jaguar_imo/amplify-cli-deep-dive-awsdevday-2020)
 - [AmplifyとAppSyncでモダンでイケてるWebサービスを爆速で立ち上げようぜ](https://dev.classmethod.jp/articles/amplify-appsync-bakusoku-devio2020/)
 
-## ワークショップ
+## 公式ワークショップ
 
 - [AMPLIFY SNS WORKSHOP](https://amplify-sns.workshop.aws/ja/)
 - [AWS で React アプリケーションを構築する](https://aws.amazon.com/jp/getting-started/hands-on/build-react-app-amplify-graphql/)
 - [CI/CD による React アプリの AWS へのデプロイ](https://aws.amazon.com/jp/getting-started/hands-on/deploy-react-app-cicd-amplify/)
+- [Flutter アプリケーションを構築する](https://aws.amazon.com/jp/getting-started/hands-on/build-flutter-app-amplify/?nc1=h_ls)
 
 ## 事例
 
