@@ -59,6 +59,7 @@
 
 ### Next.js
 - [AmplifyがNext.jsとNuxt.jsを利用したSSR（Server Side Rendering）に対応しました](https://dev.classmethod.jp/articles/amplify-javascript-adds-server-side-rendering-support-frameworks-next-js-nuxt-js/)
+- [Next.js+TypeScript+AWS Amplify+RecoilでToDoリストを作る](https://qiita.com/Y_uuu/items/249dfcc794f101129b09)
 
 ### Amplify Hosting
 - [AWS Amplify CLI から AWS Amplify コンソールでアプリをホストする](https://aws.amazon.com/jp/blogs/news/host-your-apps-with-aws-amplify-console-from-the-aws-amplify-cli/)
