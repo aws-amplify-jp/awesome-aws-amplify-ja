@@ -66,6 +66,9 @@
 ### Amplify Hosting
 - [AWS Amplify CLI から AWS Amplify コンソールでアプリをホストする](https://aws.amazon.com/jp/blogs/news/host-your-apps-with-aws-amplify-console-from-the-aws-amplify-cli/)
 
+### Amplify DataStore
+- [Amplify DataStore – GraphQL でオフラインアプリの開発を簡素化](https://aws.amazon.com/jp/blogs/news/amplify-datastore-simplify-development-of-offline-apps-with-graphql/)
+
 ### Flutter
 - [Amplify Flutterがリリースされました](https://dev.classmethod.jp/articles/what-new-amplify-flutter/)
 
