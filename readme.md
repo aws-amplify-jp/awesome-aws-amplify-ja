@@ -6,6 +6,9 @@
 ## イベント
 - [Amplify Meetup](https://aws-amplify-jp.connpass.com/)
 
+## Slack
+- [Amplify Japan User Group](https://join.slack.com/t/aws-amplify-jp/shared_invite/zt-j960fgev-77L_1RHo~sxMz03X4CyHVw)
+
 ## Amplifyとは
 - [スタートアップが AWS Amplify を使うべき3つの理由](https://aws.amazon.com/jp/blogs/startup/techblog-3reasons-amplify/)
 - [フロントエンドエンジニアに捧げるAWS Amplify Console](https://dev.classmethod.jp/articles/aws-amplify-console-guide-lines-for-frontend-engineer/)
