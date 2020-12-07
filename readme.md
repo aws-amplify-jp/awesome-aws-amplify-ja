@@ -53,6 +53,7 @@
 
 ### Vue.js
 
+- [AWS Amplify（Cognito）でLINEへソーシャルログインする](https://qiita.com/takeshi_hirosue/items/7de213590f6e9f9f6838)
 - [AWS Amplify と Vue.js を使って、基本的な認証と CRUD 操作ができる Web アプリケーションを作る](https://aws.amazon.com/jp/builders-flash/202008/amplify-crud-app/)
 - [AWS Amplify + Vue.js で簡単WEBアプリ作成](https://www.cresco.co.jp/blog/entry/11142/)
 - [AWS AmplifyをVue.jsで使い倒したい！（セットアップ・認証編）](https://qiita.com/jre233kei/items/d719159c6b0b44b3980d)
