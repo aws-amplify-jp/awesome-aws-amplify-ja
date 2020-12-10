@@ -43,6 +43,10 @@
 ### API
 - [AmplifyのAPI機能を使う際のTips](https://dev.classmethod.jp/articles/amplify-meetup-01-taewoo/)
 
+### Amplify Console
+- [Amplify Consoleの通知をSlackに流す](https://qiita.com/fossamagna/items/70e4e399de59984ad3bb)
+
+
 ## チュートリアル
 
 ### React
