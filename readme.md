@@ -7,7 +7,7 @@
 - [Amplify Meetup](https://aws-amplify-jp.connpass.com/)
 
 ## Slack
-- [Amplify Japan User Group](https://join.slack.com/t/aws-amplify-jp/shared_invite/zt-j960fgev-77L_1RHo~sxMz03X4CyHVw)
+- [Amplify Japan User Group](https://join.slack.com/t/aws-amplify-jp/shared_invite/zt-krdaun1s-akD3PB22LlDYmFzkUN_l7Q)
 
 ## Amplifyとは
 - [スタートアップが AWS Amplify を使うべき3つの理由](https://aws.amazon.com/jp/blogs/startup/techblog-3reasons-amplify/)
