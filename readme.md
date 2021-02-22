@@ -8,6 +8,7 @@
 
 ## Slack
 - [Amplify Japan User Group](https://join.slack.com/t/aws-amplify-jp/shared_invite/zt-mfo6jhmu-yLXQ_Vh5fdIvWvTw_nSO0g)
+- 注記: 上記リンクは定期的に更新されるので、Slackへの招待リンクを貼る際は[こちら](https://github.com/aws-amplify-jp/awesome-aws-amplify-ja#slack)でお願いします。
 
 ## Amplifyとは
 - [スタートアップが AWS Amplify を使うべき3つの理由](https://aws.amazon.com/jp/blogs/startup/techblog-3reasons-amplify/)
