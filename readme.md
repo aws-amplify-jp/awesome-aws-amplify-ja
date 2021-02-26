@@ -7,7 +7,7 @@
 - [Amplify Meetup](https://aws-amplify-jp.connpass.com/)
 
 ## Slack
-- [Amplify Japan User Group](https://join.slack.com/t/aws-amplify-jp/shared_invite/zt-mfo6jhmu-yLXQ_Vh5fdIvWvTw_nSO0g)
+- [Amplify Japan User Group](https://join.slack.com/t/aws-amplify-jp/shared_invite/zt-mujrr2hy-QI_5MR7qp9vLFYEMbAorhw)
 - 注記: 上記リンクは定期的に更新されるので、Slackへの招待リンクを貼る際は[こちら](https://github.com/aws-amplify-jp/awesome-aws-amplify-ja#slack)でお願いします。
 
 ## Amplifyとは
