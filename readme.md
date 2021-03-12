@@ -73,6 +73,7 @@
 - [AWS AmplifyとAngular8を使ってCognitoでQuickSightにログインするページを作ってみる](https://dev.classmethod.jp/articles/quicksight-login-with-cognito-user-using-amplify-and-angular8/)
 
 ### Next.js
+- [Next.js x Amplify boilerplate](https://github.com/kazukinagata/next-amplify-template)
 - [AmplifyがNext.jsとNuxt.jsを利用したSSR（Server Side Rendering）に対応しました](https://dev.classmethod.jp/articles/amplify-javascript-adds-server-side-rendering-support-frameworks-next-js-nuxt-js/)
 - [Next.js+TypeScript+AWS Amplify+RecoilでToDoリストを作る](https://qiita.com/Y_uuu/items/249dfcc794f101129b09)
 
