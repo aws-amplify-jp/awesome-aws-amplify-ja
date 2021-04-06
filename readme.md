@@ -70,6 +70,7 @@
 - [Amplify で開発してみる #4 / Subscriptions を使った API (GraphQL) のリアルタイムデータ連携](https://www.northdetail.co.jp/blog/1086/)
 
 ### Angular
+- [AWS AmplifyとAngular8を使ってCognitoでAWS Management Consoleにログインするページを作ってみる](https://dev.classmethod.jp/articles/aws-management-console-login-with-cognito-user-using-amplify-and-angular8/)
 - [AWS AmplifyとAngular8を使ってCognitoでQuickSightにログインするページを作ってみる](https://dev.classmethod.jp/articles/quicksight-login-with-cognito-user-using-amplify-and-angular8/)
 
 ### Next.js
