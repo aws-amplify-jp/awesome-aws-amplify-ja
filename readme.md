@@ -17,6 +17,7 @@
 - [AWS Amplify 実践編](https://speakerdeck.com/jaguar_imo/practical-aws-amplify-at-aws-dev-day-2020)
 - [Amplify CLI Deep Dive ](https://speakerdeck.com/jaguar_imo/amplify-cli-deep-dive-awsdevday-2020)
 - [AmplifyとAppSyncでモダンでイケてるWebサービスを爆速で立ち上げようぜ](https://dev.classmethod.jp/articles/amplify-appsync-bakusoku-devio2020/)
+- [AWS Amplify で始める、サクッとアプリ開発](https://aws.amazon.com/jp/builders-flash/202103/amplify-app-development/)
 
 ## 公式ワークショップ
 
