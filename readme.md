@@ -58,6 +58,7 @@
 - [React + Amplify + AppSync + DynamoDB でサーバレスなWebアプリを作成する公式チュートリアルをやってみた](https://dev.classmethod.jp/articles/react-amplify-appsync-dynamodb-tutorial/)
 
 ### Vue.js
+- [AWS Amplifyハンズオン with Vue.js](http://educationhub-04a56a10-14f3-11eb-92c2-13799b4728b2.s3-website-us-east-1.amazonaws.com/)
 - [AWS Amplify と Vue.js を用いた管理画面のサンプルプロジェクト](https://github.com/aws-amplify-jp/amplify-vue-management-console-example)
 - [AWS Amplify（Cognito）でLINEへソーシャルログインする](https://qiita.com/takeshi_hirosue/items/7de213590f6e9f9f6838)
 - [AWS Amplify と Vue.js を使って、基本的な認証と CRUD 操作ができる Web アプリケーションを作る](https://aws.amazon.com/jp/builders-flash/202008/amplify-crud-app/)
