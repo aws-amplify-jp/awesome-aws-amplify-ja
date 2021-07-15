@@ -1,5 +1,5 @@
 # Amplify学習リソース集
-> awesome-aws-amplify-ja [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)<br>
+> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)<br>
 > 日本語で書かれているAWS Amplifyのツール、チュートリアル、記事などのリンク集です。<br>
 > 英語版はこちら: https://github.com/dabit3/awesome-aws-amplify
 
