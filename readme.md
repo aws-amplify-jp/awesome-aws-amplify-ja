@@ -3,6 +3,10 @@
 > 日本語で書かれているAWS Amplifyのツール、チュートリアル、記事などのリンク集です。<br>
 > 英語版はこちら: https://github.com/dabit3/awesome-aws-amplify
 
+## 追加方法
+
+PRにて受け付けています。[ガイドライン](https://github.com/aws-amplify-jp/awesome-aws-amplify-ja/blob/main/contributing.md) をご一読の上、[こちら](https://github.com/aws-amplify-jp/awesome-aws-amplify-ja/pulls)よりお送りください。
+
 ## イベント
 - [Amplify Meetup](https://aws-amplify-jp.connpass.com/)
 
@@ -100,10 +104,6 @@
 - [Amplify Week Day1 | AWS Startup Day](https://www.youtube.com/watch?v=mNs1naRRQRU)
 - [Amplify Week Day2 | AWS Startup Day](https://www.youtube.com/watch?v=_yxV2cnGPdk)
 - [Amplify Week Day3 | AWS Startup Day](https://www.youtube.com/watch?v=sIcWRERgJME)
-
-## コントリビュート
-
-コントリビュートは歓迎です。[ガイドライン](https://github.com/aws-amplify-jp/awesome-aws-amplify-ja/blob/main/contributing.md) を読んでみてください。
 
 ## 記事検索
 
