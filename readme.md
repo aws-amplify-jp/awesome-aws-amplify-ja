@@ -93,6 +93,9 @@ PRにて受け付けています。[ガイドライン](https://github.com/aws-a
 ### Flutter
 - [Amplify Flutterがリリースされました](https://dev.classmethod.jp/articles/what-new-amplify-flutter/)
 
+### Amplify Studio
+- [AWS Amplify Studio – 最小限のプログラミングでFigmaからフルスタックのReactアプリを実現](https://aws.amazon.com/jp/blogs/news/aws-amplify-studio-figma-to-fullstack-react-app-with-minimal-programming/)
+
 ## 動画
 
 ### Amplifyとは
