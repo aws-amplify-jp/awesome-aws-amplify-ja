@@ -95,6 +95,7 @@ PRにて受け付けています。[ガイドライン](https://github.com/aws-a
 
 ### Amplify Studio
 - [AWS Amplify Studio – 最小限のプログラミングでFigmaからフルスタックのReactアプリを実現](https://aws.amazon.com/jp/blogs/news/aws-amplify-studio-figma-to-fullstack-react-app-with-minimal-programming/)
+- [アプリを爆速で開発 ! AWS Amplify Studio で出来ること](https://aws.amazon.com/jp/builders-flash/202203/amplify-studio-flash-development/)
 
 ## 動画
 
