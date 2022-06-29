@@ -74,6 +74,7 @@ PRにて受け付けています。[ガイドライン](https://github.com/aws-a
 - [Amplify で開発してみる #2 / API (GraphQL) その2 テーブル連携した実装](https://www.northdetail.co.jp/blog/930/)
 - [Amplify で開発してみる #3 / Authentication と API (GraphQL) を連携した実装](https://www.northdetail.co.jp/blog/1039/)
 - [Amplify で開発してみる #4 / Subscriptions を使った API (GraphQL) のリアルタイムデータ連携](https://www.northdetail.co.jp/blog/1086/)
+- [AWS AmplifyとAmplify UI VueとVue.jsでログイン機能を構築してみた](https://qiita.com/dayjournal/items/d67529cf62efd055617b)
 
 ### Angular
 - [AWS AmplifyとAngular8を使ってCognitoでAWS Management Consoleにログインするページを作ってみる](https://dev.classmethod.jp/articles/aws-management-console-login-with-cognito-user-using-amplify-and-angular8/)
@@ -86,16 +87,26 @@ PRにて受け付けています。[ガイドライン](https://github.com/aws-a
 
 ### Amplify Hosting
 - [AWS Amplify CLI から AWS Amplify コンソールでアプリをホストする](https://aws.amazon.com/jp/blogs/news/host-your-apps-with-aws-amplify-console-from-the-aws-amplify-cli/)
+- [AWS Amplifyの公開設定を色々とためしてみた](https://qiita.com/dayjournal/items/c6e4ca20887a093560a0)
+- [AWS Amplifyで独自ドメインホスティング環境を構築してみた](https://qiita.com/dayjournal/items/57cb0a8232d11c6c99af)
+- [AWS AmplifyでGoogle Domainsの独自ドメインホスティング環境を構築してみた](https://qiita.com/dayjournal/items/bdeaa4a5bca42c4cfe9b)
 
 ### Amplify DataStore
 - [Amplify DataStore – GraphQL でオフラインアプリの開発を簡素化](https://aws.amazon.com/jp/blogs/news/amplify-datastore-simplify-development-of-offline-apps-with-graphql/)
 
 ### Flutter
 - [Amplify Flutterがリリースされました](https://dev.classmethod.jp/articles/what-new-amplify-flutter/)
+- [AWS AmplifyとFlutterでログイン機能を構築してみた](https://qiita.com/dayjournal/items/092d51dfb463bf8b8837)
 
 ### Amplify Studio
 - [AWS Amplify Studio – 最小限のプログラミングでFigmaからフルスタックのReactアプリを実現](https://aws.amazon.com/jp/blogs/news/aws-amplify-studio-figma-to-fullstack-react-app-with-minimal-programming/)
 - [アプリを爆速で開発 ! AWS Amplify Studio で出来ること](https://aws.amazon.com/jp/builders-flash/202203/amplify-studio-flash-development/)
+
+### Amplify Geo
+- [Amplify GeoとVue.jsを組み合わせてマップアプリケーションを構築してみた](https://qiita.com/dayjournal/items/2aa8a29adc208739c375)
+- [Amplify Geoで住所検索機能を構築してみた](https://qiita.com/dayjournal/items/ecf954bcf43206f1b093)
+- [Amplify GeoとMapLibre GL Geocoderを組み合わせて住所検索機能を構築してみた](https://qiita.com/dayjournal/items/5383e6c72bb87877188a)
+- [Amazon Location Serviceの新マップスタイルをシンプルに表示してみた](https://qiita.com/dayjournal/items/f81d083126ddd51219a9)
 
 ## 動画
 
