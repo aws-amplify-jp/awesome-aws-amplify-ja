@@ -8,11 +8,10 @@
 PRにて受け付けています。[ガイドライン](https://github.com/aws-amplify-jp/awesome-aws-amplify-ja/blob/main/contributing.md) をご一読の上、[こちら](https://github.com/aws-amplify-jp/awesome-aws-amplify-ja/pulls)よりお送りください。
 
 ## イベント
-- [Amplify Meetup](https://aws-amplify-jp.connpass.com/)
+- [Amplify Boost Up](https://aws-amplify-jp.connpass.com/)
 
-## Slack
-- [Amplify Japan User Group](https://join.slack.com/t/aws-amplify-jp/shared_invite/zt-mujrr2hy-QI_5MR7qp9vLFYEMbAorhw)
-- 注記: 上記リンクは定期的に更新されるので、Slackへの招待リンクを貼る際は[こちら](https://github.com/aws-amplify-jp/awesome-aws-amplify-ja#slack)でお願いします。
+## Discord
+- [Amplify Japan User Group](https://discord.gg/2wVQ2D53Na)
 
 ## Amplifyとは
 - [スタートアップが AWS Amplify を使うべき3つの理由](https://aws.amazon.com/jp/blogs/startup/techblog-3reasons-amplify/)
