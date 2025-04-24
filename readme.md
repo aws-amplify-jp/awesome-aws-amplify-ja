@@ -23,7 +23,7 @@ PRにて受け付けています。[ガイドライン](https://github.com/aws-a
 ## 公式ワークショップ
 - [AWS で React アプリケーションを構築する](https://aws.amazon.com/jp/getting-started/hands-on/build-react-app-amplify-graphql/)
 - [CI/CD による React アプリの AWS へのデプロイ](https://aws.amazon.com/jp/getting-started/hands-on/deploy-react-app-cicd-amplify/)
-- [Flutter アプリケーションを構築する](https://aws.amazon.com/jp/getting-started/hands-on/build-flutter-app-amplify/?nc1=h_ls)
+- [Flutter アプリケーションを構築する](https://docs.amplify.aws/flutter/start/quickstart/)
 
 ## 事例
 
