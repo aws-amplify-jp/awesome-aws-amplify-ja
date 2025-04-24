@@ -17,17 +17,13 @@ PRにて受け付けています。[ガイドライン](https://github.com/aws-a
 - [スタートアップが AWS Amplify を使うべき3つの理由](https://aws.amazon.com/jp/blogs/startup/techblog-3reasons-amplify/)
 - [フロントエンドエンジニアに捧げるAWS Amplify Console](https://dev.classmethod.jp/articles/aws-amplify-console-guide-lines-for-frontend-engineer/)
 - [フロントエンドエンジニアのためのAWSアーキテクチャ](https://speakerdeck.com/tmizuma/hurontoentoensiniafalsetamefalseawsakitekutiya)
-- [AWS Amplify 実践編](https://speakerdeck.com/jaguar_imo/practical-aws-amplify-at-aws-dev-day-2020)
-- [Amplify CLI Deep Dive ](https://speakerdeck.com/jaguar_imo/amplify-cli-deep-dive-awsdevday-2020)
 - [AmplifyとAppSyncでモダンでイケてるWebサービスを爆速で立ち上げようぜ](https://dev.classmethod.jp/articles/amplify-appsync-bakusoku-devio2020/)
 - [AWS Amplify で始める、サクッとアプリ開発](https://aws.amazon.com/jp/builders-flash/202103/amplify-app-development/)
 
 ## 公式ワークショップ
-
-- [AMPLIFY SNS WORKSHOP](https://amplify-sns.workshop.aws/ja/)
 - [AWS で React アプリケーションを構築する](https://aws.amazon.com/jp/getting-started/hands-on/build-react-app-amplify-graphql/)
 - [CI/CD による React アプリの AWS へのデプロイ](https://aws.amazon.com/jp/getting-started/hands-on/deploy-react-app-cicd-amplify/)
-- [Flutter アプリケーションを構築する](https://aws.amazon.com/jp/getting-started/hands-on/build-flutter-app-amplify/?nc1=h_ls)
+- [Flutter アプリケーションを構築する](https://docs.amplify.aws/flutter/start/quickstart/)
 
 ## 事例
 
@@ -61,7 +57,6 @@ PRにて受け付けています。[ガイドライン](https://github.com/aws-a
 - [React + Amplify + AppSync + DynamoDB でサーバレスなWebアプリを作成する公式チュートリアルをやってみた](https://dev.classmethod.jp/articles/react-amplify-appsync-dynamodb-tutorial/)
 
 ### Vue.js
-- [AWS Amplifyハンズオン with Vue.js](http://educationhub-04a56a10-14f3-11eb-92c2-13799b4728b2.s3-website-us-east-1.amazonaws.com/)
 - [AWS Amplify と Vue.js を用いた管理画面のサンプルプロジェクト](https://github.com/aws-amplify-jp/amplify-vue-management-console-example)
 - [AWS Amplify（Cognito）でLINEへソーシャルログインする](https://qiita.com/takeshi_hirosue/items/7de213590f6e9f9f6838)
 - [AWS Amplify と Vue.js を使って、基本的な認証と CRUD 操作ができる Web アプリケーションを作る](https://aws.amazon.com/jp/builders-flash/202008/amplify-crud-app/)
