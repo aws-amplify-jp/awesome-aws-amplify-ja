@@ -13,6 +13,14 @@ PRにて受け付けています。[ガイドライン](https://github.com/aws-a
 ## Discord
 - [Amplify Japan User Group](https://discord.gg/2wVQ2D53Na)
 
+## Advent Calendar
+- [AWS AmplifyとAWS×フロントエンド #AWSAmplifyJP Advent Calendar 2025](https://qiita.com/advent-calendar/2025/amplify)
+- [AWS AmplifyとAWS×フロントエンド #AWSAmplifyJP Advent Calendar 2024](https://qiita.com/advent-calendar/2024/amplify)
+- [AWS AmplifyとAWS×フロントエンド #AWSAmplifyJP Advent Calendar 2023](https://qiita.com/advent-calendar/2023/amplify)
+- [AWS AmplifyとAWS×フロントエンド #AWSAmplifyJP Advent Calendar 2022](https://qiita.com/advent-calendar/2022/amplify)
+- [AWS AmplifyとAWS×フロントエンド #AWSAmplifyJP Advent Calendar 2021](https://qiita.com/advent-calendar/2021/amplify)
+- [AWS AmplifyとAWS×フロントエンド #AWSAmplifyJP Advent Calendar 2020](https://qiita.com/advent-calendar/2020/amplify)
+
 ## Amplifyとは
 - [スタートアップが AWS Amplify を使うべき3つの理由](https://aws.amazon.com/jp/blogs/startup/techblog-3reasons-amplify/)
 - [フロントエンドエンジニアに捧げるAWS Amplify Console](https://dev.classmethod.jp/articles/aws-amplify-console-guide-lines-for-frontend-engineer/)
@@ -84,6 +92,8 @@ PRにて受け付けています。[ガイドライン](https://github.com/aws-a
 - [AWS Amplifyの公開設定を色々とためしてみた](https://qiita.com/dayjournal/items/c6e4ca20887a093560a0)
 - [AWS Amplifyで独自ドメインホスティング環境を構築してみた](https://qiita.com/dayjournal/items/57cb0a8232d11c6c99af)
 - [AWS AmplifyでGoogle Domainsの独自ドメインホスティング環境を構築してみた](https://qiita.com/dayjournal/items/bdeaa4a5bca42c4cfe9b)
+- [AWS Amplify Gen2の公開設定](https://zenn.dev/mierune/articles/try-111-aws-amplify)
+- [Amplify HostingでAWS re:Invent Mapを公開した話](https://zenn.dev/mierune/articles/try-121-reinvent-map-amplify)
 
 ### Amplify DataStore
 - [Amplify DataStore – GraphQL でオフラインアプリの開発を簡素化](https://aws.amazon.com/jp/blogs/news/amplify-datastore-simplify-development-of-offline-apps-with-graphql/)
@@ -101,6 +111,7 @@ PRにて受け付けています。[ガイドライン](https://github.com/aws-a
 - [Amplify Geoで住所検索機能を構築してみた](https://qiita.com/dayjournal/items/ecf954bcf43206f1b093)
 - [Amplify GeoとMapLibre GL Geocoderを組み合わせて住所検索機能を構築してみた](https://qiita.com/dayjournal/items/5383e6c72bb87877188a)
 - [Amazon Location Serviceの新マップスタイルをシンプルに表示してみた](https://qiita.com/dayjournal/items/f81d083126ddd51219a9)
+- [AWS Amplify Gen2とAmazon Location Service v2でアプリケーション構築](https://zenn.dev/mierune/articles/try-117-amplify-location)
 
 ## 動画
 
@@ -119,4 +130,4 @@ PRにて受け付けています。[ガイドライン](https://github.com/aws-a
 - [はてなブックマーク](https://b.hatena.ne.jp/search/tag?q=Amplify)
 - [Qiita](https://qiita.com/tags/amplify)
 - [Zenn](https://zenn.dev/topics/amplify)
-- [Twitter](https://twitter.com/search?q=lang%3Aja%20AWSAmplify&src=typed_query&f=live)
+- [X](https://x.com/search?q=lang:ja%20AWS%20Amplify&src=typed_query&f=live)
