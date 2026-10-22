@@ -28,8 +28,18 @@ jobs:
             --exclude '^https://x\.com/'
             readme.md
           fail: ${{ github.event_name == 'pull_request' }}
-      - name: Open an issue on scheduled failure
+      - name: Open or update an issue on scheduled failure
         if: github.event_name == 'schedule' && steps.lychee.outputs.exit_code != 0
         env:
           GH_TOKEN: ${{ github.token }}
-        run: gh issue create --repo "$GITHUB_REPOSITORY" --title "リンク切れの検出（定期チェック）" --body-file ./lychee/out.md
+          ISSUE_TITLE: リンク切れの検出（定期チェック）
+        run: |
+          # 同じタイトルの Issue が開いていれば、新しく作らずにコメントを追加する
+          number=$(gh issue list --repo "$GITHUB_REPOSITORY" --state open \
+            --search "\"$ISSUE_TITLE\" in:title" --json number,title \
+            --jq "map(select(.title == \"$ISSUE_TITLE\")) | .[0].number // empty")
+          if [ -n "$number" ]; then
+            gh issue comment "$number" --repo "$GITHUB_REPOSITORY" --body-file ./lychee/out.md
+          else
+            gh issue create --repo "$GITHUB_REPOSITORY" --title "$ISSUE_TITLE" --body-file ./lychee/out.md
+          fi
