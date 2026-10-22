@@ -1,0 +1,35 @@
+name: Link check
+
+on:
+  pull_request:
+    paths:
+      - 'readme.md'
+  schedule:
+    - cron: '0 0 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7.0.1
+      - name: Check links
+        id: lychee
+        uses: lycheeverse/lychee-action@v2.9.0
+        with:
+          args: >-
+            --no-progress
+            --max-retries 3
+            --accept 200,206,403,429
+            --exclude '^https://x\.com/'
+            readme.md
+          fail: ${{ github.event_name == 'pull_request' }}
+      - name: Open an issue on scheduled failure
+        if: github.event_name == 'schedule' && steps.lychee.outputs.exit_code != 0
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh issue create --repo "$GITHUB_REPOSITORY" --title "リンク切れの検出（定期チェック）" --body-file ./lychee/out.md
