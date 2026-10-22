@@ -12,6 +12,8 @@ PRにて受け付けています。[ガイドライン](https://github.com/aws-a
 
 ## イベント
 - [Amplify Boost Up](https://aws-amplify-jp.connpass.com/)
+- [AWS Amplify Conference 2026](https://aws-amplify-jp.github.io/conference/2026/)
+- [Amplify Japan User Group 公式サイト（イベント一覧）](https://aws-amplify-jp.github.io/events/)
 
 ## Discord
 - [Amplify Japan User Group](https://discord.gg/2wVQ2D53Na)
