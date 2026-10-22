@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/watilde/awesome-aws-amplify-ja.git"
+    "url": "git+https://github.com/aws-amplify-jp/awesome-aws-amplify-ja.git"
   },
   "keywords": [],
   "author": "Daijiro Wachi",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/watilde/awesome-aws-amplify-ja/issues"
+    "url": "https://github.com/aws-amplify-jp/awesome-aws-amplify-ja/issues"
   },
-  "homepage": "https://github.com/watilde/awesome-aws-amplify-ja#readme"
+  "homepage": "https://github.com/aws-amplify-jp/awesome-aws-amplify-ja#readme"
 }
