@@ -3,6 +3,9 @@
 > 日本語で書かれているAWS Amplifyのツール、チュートリアル、記事などのリンク集です。<br>
 > 英語版はこちら: https://github.com/dabit3/awesome-aws-amplify
 
+> [!NOTE]
+> Amplify Gen 1 は2026年5月1日にメンテナンスモードに入り、2027年5月1日にサポート終了予定です（[公式アナウンス](https://github.com/aws-amplify/amplify-cli/issues/14881)）。このリンク集には Gen 1 を前提とした記事も含まれています。これから始める場合は「Amplify Gen 2」の項目から参照してください。
+
 ## 追加方法
 
 PRにて受け付けています。[ガイドライン](https://github.com/aws-amplify-jp/awesome-aws-amplify-ja/blob/main/contributing.md) をご一読の上、[こちら](https://github.com/aws-amplify-jp/awesome-aws-amplify-ja/pulls)よりお送りください。
@@ -20,6 +23,15 @@ PRにて受け付けています。[ガイドライン](https://github.com/aws-a
 - [AWS AmplifyとAWS×フロントエンド #AWSAmplifyJP Advent Calendar 2022](https://qiita.com/advent-calendar/2022/amplify)
 - [AWS AmplifyとAWS×フロントエンド #AWSAmplifyJP Advent Calendar 2021](https://qiita.com/advent-calendar/2021/amplify)
 - [AWS AmplifyとAWS×フロントエンド #AWSAmplifyJP Advent Calendar 2020](https://qiita.com/advent-calendar/2020/amplify)
+
+## Amplify Gen 2
+- [AWS Amplify の次世代フルスタック開発体験の紹介](https://aws.amazon.com/jp/blogs/news/introducing-amplify-gen2)
+- [フルスタック TypeScript : AWS Amplify を再び紹介](https://aws.amazon.com/jp/blogs/news/amplify-gen2-ga)
+- [フルスタック TypeScript 開発環境 AWS Amplify Gen 2 をグラレコで解説](https://aws.amazon.com/jp/builders-flash/202411/awsgeek-aws-amplify-gen2)
+
+### Gen 1 から Gen 2 への移行
+- [Migrate from Gen 1 to Gen 2（公式ドキュメント・英語）](https://docs.amplify.aws/react/start/migrate-to-gen2/)
+- [Amplify Gen 1 is in Maintenance Mode（公式アナウンス・英語）](https://github.com/aws-amplify/amplify-cli/issues/14881)
 
 ## Amplifyとは
 - [スタートアップが AWS Amplify を使うべき3つの理由](https://aws.amazon.com/jp/blogs/startup/techblog-3reasons-amplify/)
