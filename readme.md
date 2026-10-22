@@ -84,10 +84,6 @@ PRにて受け付けています。[ガイドライン](https://github.com/aws-a
 - [AWS AmplifyをVue.jsで使い倒したい！（セットアップ・認証編）](https://qiita.com/jre233kei/items/d719159c6b0b44b3980d)
 - [AWS AmplifyをVue.jsで使い倒したい！（API編）](https://qiita.com/jre233kei/items/b47656059e1718363245)
 - [AWS AmplifyのUI Componentsを利用する](https://zenn.dev/ssshun/articles/e6c827f46640a9a657ed)
-- [Amplify で開発してみる #1 / API (GraphQL) その1 テーブル一つの実装](https://www.northdetail.co.jp/blog/905/)
-- [Amplify で開発してみる #2 / API (GraphQL) その2 テーブル連携した実装](https://www.northdetail.co.jp/blog/930/)
-- [Amplify で開発してみる #3 / Authentication と API (GraphQL) を連携した実装](https://www.northdetail.co.jp/blog/1039/)
-- [Amplify で開発してみる #4 / Subscriptions を使った API (GraphQL) のリアルタイムデータ連携](https://www.northdetail.co.jp/blog/1086/)
 - [AWS AmplifyとAmplify UI VueとVue.jsでログイン機能を構築してみた](https://qiita.com/dayjournal/items/d67529cf62efd055617b)
 
 ### Angular
